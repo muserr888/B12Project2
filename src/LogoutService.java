@@ -1,2 +1,2 @@
-public class LogoutService {
+public class LogoutService{
 }
